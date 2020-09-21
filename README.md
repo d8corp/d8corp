@@ -65,6 +65,9 @@
   <a href="https://www.atlassian.com/ru/software/jira" title="Jira">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" />
   </a> &nbsp;
+  <a href="https://www.figma.com" title="Figma">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" />
+  </a> &nbsp;
 </p>
 
 #### Other knowledge
@@ -92,5 +95,23 @@
   </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/Mercurial" title="Mercurial">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mercurial.svg" alt="Mercurial" />
+  </a> &nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop" />
+  </a> &nbsp;
+  <a href="https://zeplin.io" title="Zeplin">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg" alt="Zeplin" />
+  </a> &nbsp;
+  <a href="https://www.jetbrains.com/phpstorm" title="PhpStorm">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PhpStorm" />
+  </a> &nbsp;
+  <a href="https://www.jetbrains.com/idea" title="IntelliJ IDEA">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" />
+  </a> &nbsp;
+  <a href="https://code.visualstudio.com" title="Visual Studio Code">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" />
+  </a> &nbsp;
+  <a href="https://www.sublimetext.com" title="Sublime Text">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" />
   </a> &nbsp;
 </p>
