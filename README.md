@@ -2,7 +2,7 @@
   👋 Hey, I'm Mike!
 </h1>
 
-<p align="middle">
+<p>
   <img height="182" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true&theme=dracula" alt="My stats" />
   <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
 </p>
