@@ -1,10 +1,12 @@
 ## 👋 Hey, I'm Mike!
-<i>
-  Welcome to my GitHub page.
-  <a href="https://github.com/d8corp">
-    <img height="12" src="https://visitor-badge.glitch.me/badge?page_id=d8corp.d8corp" />
-  </a>
-</i>
+<p>
+  <i>
+    Welcome to my GitHub page.
+    <a href="https://github.com/d8corp">
+      <img height="12" src="https://visitor-badge.glitch.me/badge?page_id=d8corp.d8corp" />
+    </a>
+  </i>
+</p>
 
 <p>
   <img width="463" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true" alt="My stats" />
