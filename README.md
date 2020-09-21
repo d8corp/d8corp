@@ -1,4 +1,7 @@
-## 👋 Hey, I'm Mike!
+<h1>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg" alt="GitHub" />
+  Hey, I'm Mike!
+</h1>
 <p>
   <i>
     Welcome to my GitHub page.
@@ -45,13 +48,13 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
   </a> &nbsp;
   <a href="https://nodejs.org" title="Node.js">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" />
   </a> &nbsp;
   <a href="https://www.mysql.com" title="MySQL">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" />
   </a> &nbsp;
   <a href="https://git-scm.com" title="git">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" />
   </a> &nbsp;
   <a href="http://bitbucket.org" title="BitBucket">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="BitBucket" />
