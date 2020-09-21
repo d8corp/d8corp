@@ -53,6 +53,9 @@
   <a href="https://www.mysql.com" title="MySQL">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" />
   </a> &nbsp;
+  <a href="https://www.mongodb.com" title="mongoDB">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" />
+  </a> &nbsp;
   <a href="https://git-scm.com" title="git">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" />
   </a> &nbsp;
@@ -69,11 +72,17 @@
   <a href="https://www.python.org" title="Python">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" />
   </a> &nbsp;
+  <a href="https://dart.dev" title="Dart">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" />
+  </a> &nbsp;
   <a href="https://www.php.net" title="PHP">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" />
   </a> &nbsp;
   <a href="https://getbootstrap.com" title="Bootstrap">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" />
+  </a> &nbsp;
+  <a href="https://material-ui.com/" title="Material UI">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" />
   </a> &nbsp;
   <a href="https://vuejs.org" title="Vue.js">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
