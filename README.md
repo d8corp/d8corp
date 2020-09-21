@@ -30,7 +30,10 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" />
   </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/CSS" title="CSS">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS" />
+  </a> &nbsp;
+  <a href="https://sass-lang.com" title="SASS">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" />
   </a> &nbsp;
   <a href="https://reactjs.org" title="React">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" />
@@ -39,7 +42,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm.svg" alt="WebStorm" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
   </a> &nbsp;
   <a href="https://nodejs.org" title="Node.js">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" />
@@ -61,13 +64,13 @@
 #### Other knowledge
 <p>
   <a href="https://www.python.org" title="Python">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" />
   </a> &nbsp;
   <a href="https://www.php.net" title="PHP">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" />
   </a> &nbsp;
   <a href="https://getbootstrap.com" title="Bootstrap">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="Bootstrap" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" />
   </a> &nbsp;
   <a href="https://vuejs.org" title="Vue.js">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
