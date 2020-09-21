@@ -18,27 +18,64 @@
 ![Experience](https://img.shields.io/date/1199145600?label=I%20started%20writing%20code)
 ![GitHub followers](https://img.shields.io/github/followers/d8corp?label=Follow)
 
-### Technology
+#### Current environment
 <p>
   <a href="https://www.typescriptlang.org" title="TypeScript">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" />
   </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/JavaScript" title="JavaScript">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" />
   </a> &nbsp;
-  <a href="https://www.php.net" title="PHP">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" />
+  <a href="https://ru.wikipedia.org/wiki/HTML" title="HTML">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" />
+  </a> &nbsp;
+  <a href="https://ru.wikipedia.org/wiki/CSS" title="CSS">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" />
   </a> &nbsp;
   <a href="https://reactjs.org" title="React">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" />
   </a> &nbsp;
   <a href="https://mobx.js.org" title="MobX">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/webstorm.svg" alt="WebStorm" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm.svg" alt="WebStorm" />
   </a> &nbsp;
   <a href="https://nodejs.org" title="Node.js">
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" />
+  </a> &nbsp;
+  <a href="https://www.mysql.com" title="MySQL">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" />
+  </a> &nbsp;
+  <a href="https://git-scm.com" title="git">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" />
+  </a> &nbsp;
+  <a href="http://bitbucket.org" title="BitBucket">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="BitBucket" />
+  </a> &nbsp;
+  <a href="https://www.atlassian.com/ru/software/jira" title="Jira">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" />
+  </a> &nbsp;
+</p>
+
+#### Other knowledge
+<p>
+  <a href="https://www.python.org" title="Python">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python" />
+  </a> &nbsp;
+  <a href="https://www.php.net" title="PHP">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" />
+  </a> &nbsp;
+  <a href="https://getbootstrap.com" title="Bootstrap">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="Bootstrap" />
+  </a> &nbsp;
+  <a href="https://vuejs.org" title="Vue.js">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
+  </a> &nbsp;
+  <a href="https://jquery.com/" title="jQuery">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" alt="jQuery" />
+  </a> &nbsp;
+  <a href="https://ru.wikipedia.org/wiki/Mercurial" title="Mercurial">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mercurial.svg" alt="Mercurial" />
   </a> &nbsp;
 </p>
