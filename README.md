@@ -3,8 +3,8 @@
 </h1>
 
 <p>
-  <img height="182" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true&theme=dracula" alt="My stats" />
-  <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
+  <img width="463" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true&theme=dracula" alt="My stats" />
+  <img width="387" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
 </p>
 
 
