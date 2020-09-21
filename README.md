@@ -5,6 +5,7 @@
 <p>
   <img width="463" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true" alt="My stats" />
   <img width="387" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
+  <img width="850" src="https://github-profile-trophy.vercel.app/?username=d8corp&margin-w=3" alt="My stats" />
 </p>
 
 
