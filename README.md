@@ -126,4 +126,16 @@
   <a href="https://www.sublimetext.com" title="Sublime Text">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" />
   </a> &nbsp;
+  <a href="https://app.diagrams.net" title="Draw.io">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io" />
+  </a> &nbsp;
+  <a href="https://trello.com" title="Trello">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" />
+  </a> &nbsp;
+  <a href="https://tagmanager.google.com" title="Google Tag Manager">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/google-tag-manager.svg" alt="Google Tag Manager" />
+  </a> &nbsp;
+  <a href="https://handlebarsjs.com" title="Handlebars">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" alt="Handlebars" />
+  </a> &nbsp;
 </p>
