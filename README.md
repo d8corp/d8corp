@@ -1,6 +1,6 @@
 <h1>
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg" alt="GitHub" />
-  Hey, I'm Mike!
+  Hey there, I'm Mike!
 </h1>
 <p>
   <i>
@@ -81,6 +81,9 @@
   <a href="https://www.php.net" title="PHP">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" />
   </a> &nbsp;
+  <a href="https://www.java.com" title="Java">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" />
+  </a> &nbsp;
   <a href="https://getbootstrap.com" title="Bootstrap">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" />
   </a> &nbsp;
@@ -89,6 +92,12 @@
   </a> &nbsp;
   <a href="https://vuejs.org" title="Vue.js">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
+  </a> &nbsp;
+  <a href="https://redux.js.org" title="Redux">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" />
+  </a> &nbsp;
+  <a href="https://en.wikipedia.org/wiki/Web_Components" title="Web Components">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/web-components.svg" alt="Web Components" />
   </a> &nbsp;
   <a href="https://jquery.com/" title="jQuery">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" alt="jQuery" />
