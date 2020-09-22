@@ -93,6 +93,9 @@
   <a href="https://vuejs.org" title="Vue.js">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
   </a> &nbsp;
+  <a href="https://angular.io" title="Angular">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" />
+  </a> &nbsp;
   <a href="https://redux.js.org" title="Redux">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" />
   </a> &nbsp;
