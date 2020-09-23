@@ -56,6 +56,9 @@
   <a href="https://www.mongodb.com" title="mongoDB">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" />
   </a> &nbsp;
+  <a href="https://nginx.org/" title="nginx">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" />
+  </a> &nbsp;
   <a href="https://git-scm.com" title="git">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" />
   </a> &nbsp;
