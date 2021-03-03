@@ -39,7 +39,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" />
   </a> &nbsp;
   <a href="https://reactjs.org" title="React">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" />
   </a> &nbsp;
   <a href="https://mobx.js.org" title="MobX">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
@@ -51,7 +51,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" />
   </a> &nbsp;
   <a href="https://www.mysql.com" title="MySQL">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL" />
   </a> &nbsp;
   <a href="https://www.mongodb.com" title="mongoDB">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" />
