@@ -41,7 +41,7 @@
   <a href="https://reactjs.org" title="React">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" />
   </a> &nbsp;
-  <a href="https://mobx.js.org" title="watch-state">
+  <a href="https://www.npmjs.com/package/watch-state" title="watch-state">
     <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/master/logo.png" alt="watch-state" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
