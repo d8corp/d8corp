@@ -41,8 +41,8 @@
   <a href="https://reactjs.org" title="React">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" />
   </a> &nbsp;
-  <a href="https://mobx.js.org" title="MobX">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
+  <a href="https://mobx.js.org" title="watch-state">
+    <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/master/logo.png" alt="watch-state" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
@@ -101,6 +101,9 @@
   </a> &nbsp;
   <a href="https://redux.js.org" title="Redux">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" />
+  </a> &nbsp;
+  <a href="https://mobx.js.org" title="MobX">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" alt="MobX" />
   </a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/Web_Components" title="Web Components">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/web-components.svg" alt="Web Components" />
