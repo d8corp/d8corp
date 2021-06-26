@@ -27,13 +27,10 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" />
   </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/JavaScript" title="JavaScript">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" />
   </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/HTML" title="HTML">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" />
-  </a> &nbsp;
-  <a href="https://ru.wikipedia.org/wiki/CSS" title="CSS">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS" />
   </a> &nbsp;
   <a href="https://sass-lang.com" title="SASS">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" />
@@ -51,7 +48,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" />
   </a> &nbsp;
   <a href="https://www.mysql.com" title="MySQL">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" />
   </a> &nbsp;
   <a href="https://www.mongodb.com" title="mongoDB">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" />
@@ -115,7 +112,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mercurial.svg" alt="Mercurial" />
   </a> &nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="Photoshop" />
   </a> &nbsp;
   <a href="https://zeplin.io" title="Zeplin">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg" alt="Zeplin" />
