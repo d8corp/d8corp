@@ -21,7 +21,7 @@
 ![Experience](https://img.shields.io/date/1199145600?label=I%20started%20writing%20code)
 ![GitHub followers](https://img.shields.io/github/followers/d8corp?label=Follow)
 
-#### Current environment
+#### Preferred environment
 <p>
   <a href="https://www.typescriptlang.org" title="TypeScript">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" />
