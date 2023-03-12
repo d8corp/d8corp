@@ -12,8 +12,8 @@
 </p>
 
 <p>
-  <img width="463" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true" alt="My stats" />
-  <img width="387" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
+  <img width="478" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true" alt="My stats" />
+  <img width="364" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
   <img width="854" src="https://github-profile-trophy.vercel.app/?username=d8corp&margin-w=2" alt="My stats" />
 </p>
 
