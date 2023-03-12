@@ -26,11 +26,8 @@
   <a href="https://www.typescriptlang.org" title="TypeScript">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" />
   </a> &nbsp;
-  <a href="https://ru.wikipedia.org/wiki/JavaScript" title="JavaScript">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" />
-  </a> &nbsp;
   <a href="https://ru.wikipedia.org/wiki/HTML" title="HTML">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" />
   </a> &nbsp;
   <a href="https://sass-lang.com" title="SASS">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" />
@@ -51,7 +48,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" />
   </a> &nbsp;
   <a href="https://www.mongodb.com" title="mongoDB">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" />
   </a> &nbsp;
   <a href="https://nginx.org/" title="nginx">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" />
@@ -72,6 +69,9 @@
 
 #### Other knowledge
 <p>
+  <a href="https://ru.wikipedia.org/wiki/JavaScript" title="JavaScript">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" />
+  </a> &nbsp;
   <a href="https://www.python.org" title="Python">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" />
   </a> &nbsp;
@@ -134,9 +134,6 @@
   </a> &nbsp;
   <a href="https://trello.com" title="Trello">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" />
-  </a> &nbsp;
-  <a href="https://tagmanager.google.com" title="Google Tag Manager">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/google-tag-manager.svg" alt="Google Tag Manager" />
   </a> &nbsp;
   <a href="https://handlebarsjs.com" title="Handlebars">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" alt="Handlebars" />
