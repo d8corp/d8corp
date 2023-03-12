@@ -102,6 +102,9 @@
   <a href="https://angular.io" title="Angular">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" />
   </a> &nbsp;
+  <a href="https://effector.dev" title="effector">
+    <img height="40" src="https://raw.githubusercontent.com/effector/effector/master/website/client/static/img/comet.svg" alt="effector" />
+  </a> &nbsp;
   <a href="https://redux.js.org" title="Redux">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" />
   </a> &nbsp;
