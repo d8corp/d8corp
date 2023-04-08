@@ -50,9 +50,6 @@
   <a href="https://www.mysql.com" title="MySQL">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" />
   </a> &nbsp;
-  <a href="https://www.mongodb.com" title="mongoDB">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" />
-  </a> &nbsp;
   <a href="https://nginx.org/" title="nginx">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" />
   </a> &nbsp;
@@ -86,6 +83,9 @@
   </a> &nbsp;
   <a href="https://www.java.com" title="Java">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" />
+  </a> &nbsp;
+  <a href="https://www.mongodb.com" title="mongoDB">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" />
   </a> &nbsp;
   <a href="https://getbootstrap.com" title="Bootstrap">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" />
