@@ -66,7 +66,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" />
   </a> &nbsp;
   <a href="https://www.figma.com" title="Figma">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" />
   </a> &nbsp;
 </p>
 
