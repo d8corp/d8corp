@@ -39,7 +39,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" />
   </a> &nbsp;
   <a href="https://www.npmjs.com/package/watch-state" title="watch-state">
-    <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/master/img/logo.svg" alt="watch-state" />
+    <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
