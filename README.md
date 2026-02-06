@@ -2,20 +2,21 @@
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" />
   Hey there, I'm Mike!
 </h1>
-<p>
-  <i>
-    Welcome to my GitHub page.
-    <a href="https://github.com/d8corp">
-      <img height="12" src="https://visitor-badge.glitch.me/badge?page_id=d8corp.d8corp" />
-    </a>
-  </i>
-</p>
 
-<p>
-  <img width="478" src="https://github-readme-stats.vercel.app/api?username=d8corp&show_icons=true" alt="My stats" />
-  <img width="364" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8corp&layout=compact" alt="My langs" />
-  <img width="854" src="https://github-profile-trophy.vercel.app/?username=d8corp&margin-w=2" alt="My stats" />
-</p>
+<h3>
+Creator of
+<a href="https://www.npmjs.com/package/innet" title="innet.js">
+  <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/innet/main/logo.svg" alt="innet.js" />
+  innet
+</a>
+and
+<a href="https://www.npmjs.com/package/watch-state" title="watch-state">
+  <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
+  watch-state
+</a>
+</h3>
+
+_Welcome to my GitHub page._
 
 
 ![Experience](https://img.shields.io/date/1199145600?label=I%20started%20writing%20code)
@@ -41,6 +42,9 @@
   <a href="https://www.npmjs.com/package/watch-state" title="watch-state">
     <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
   </a> &nbsp;
+  <a href="https://github.com/nanostores" title="Nano Stores">
+    <img height="40" src="https://nanostores.github.io/nanostores/logo.svg" alt="Nano Stores" />
+  </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
   </a> &nbsp;
@@ -63,14 +67,14 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" />
   </a> &nbsp;
   <a href="https://www.figma.com" title="Figma">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" />
   </a> &nbsp;
 </p>
 
 #### Other knowledge
 <p>
   <a href="https://ru.wikipedia.org/wiki/JavaScript" title="JavaScript">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" />
   </a> &nbsp;
   <a href="https://www.python.org" title="Python">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" />
@@ -79,7 +83,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" />
   </a> &nbsp;
   <a href="https://www.php.net" title="PHP">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="PHP" />
   </a> &nbsp;
   <a href="https://www.java.com" title="Java">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" />
@@ -97,13 +101,13 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" />
   </a> &nbsp;
   <a href="https://vuejs.org" title="Vue.js">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js" />
+    <img height="40" src="https://avatars.githubusercontent.com/u/6128107" alt="Vue.js" />
   </a> &nbsp;
   <a href="https://angular.io" title="Angular">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" />
   </a> &nbsp;
   <a href="https://effector.dev" title="effector">
-    <img height="40" src="https://raw.githubusercontent.com/effector/effector/master/website/client/static/img/comet.svg" alt="effector" />
+    <img height="40" src="https://raw.githubusercontent.com/effector/effector/master/documentation/public/favicon.svg" alt="effector" />
   </a> &nbsp;
   <a href="https://redux.js.org" title="Redux">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" />
@@ -136,7 +140,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" />
   </a> &nbsp;
   <a href="https://www.sublimetext.com" title="Sublime Text">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" />
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text-3.svg" alt="Sublime Text" />
   </a> &nbsp;
   <a href="https://app.diagrams.net" title="Draw.io">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Draw.io" />
