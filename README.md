@@ -1,5 +1,5 @@
-<h1>
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" />
+<h1 align="center">
+  <img height="40" align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" /><br/>
   Hey there, I'm Mike!
 </h1>
 
