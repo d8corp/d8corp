@@ -5,12 +5,12 @@
 
 <h3>
 Creator of
-<a href="https://www.npmjs.com/package/innet" title="innet.js">
+<a href="https://github.com/d8corp/innet" title="innet.js">
   <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/innet/main/logo.svg" alt="innet.js" />
   innet
 </a>
 and
-<a href="https://www.npmjs.com/package/watch-state" title="watch-state">
+<a href="https://github.com/d8corp/watch-state" title="watch-state">
   <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
   watch-state
 </a>
