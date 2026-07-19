@@ -15,8 +15,8 @@ Creator of
   watch-state
 </a>
 and
-<a href="https://github.com/d8corp/rune-hub" title="rune-hub">
-  <img height="20" align="center" src="https://cdn.jsdelivr.net/gh/d8corp/rune-hub@main/logo.svg" alt="rune-hub" />
+<a href="https://github.com/d8corp/rune-hub" title="RuneHub">
+  <img height="20" align="center" src="https://cdn.jsdelivr.net/gh/d8corp/rune-hub@main/logo.svg" alt="RuneHub" />
   rune-hub
 </a>
 </h3>
@@ -47,8 +47,8 @@ _Welcome to my GitHub page._
   <a href="https://www.npmjs.com/package/watch-state" title="watch-state">
     <img height="40" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
   </a> &nbsp;
-  <a href="https://github.com/nanostores" title="Nano Stores">
-    <img height="40" src="https://nanostores.github.io/nanostores/logo.svg" alt="Nano Stores" />
+  <a href="https://github.com/deight/rune-hub" title="RuneHub">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/d8corp/rune-hub@main/logo.svg" alt="RuneHub" />
   </a> &nbsp;
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="WebStorm" />
@@ -110,6 +110,9 @@ _Welcome to my GitHub page._
   </a> &nbsp;
   <a href="https://angular.io" title="Angular">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" />
+  </a> &nbsp;
+  <a href="https://github.com/nanostores" title="Nano Stores">
+    <img height="40" src="https://nanostores.github.io/nanostores/logo.svg" alt="Nano Stores" />
   </a> &nbsp;
   <a href="https://effector.dev" title="effector">
     <img height="40" src="https://raw.githubusercontent.com/effector/effector/master/documentation/public/favicon.svg" alt="effector" />
