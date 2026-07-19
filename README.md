@@ -9,10 +9,15 @@ Creator of
   <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/innet/main/logo.svg" alt="innet.js" />
   innet
 </a>
-and
+,
 <a href="https://github.com/d8corp/watch-state" title="watch-state">
   <img height="20" align="center" src="https://raw.githubusercontent.com/d8corp/watch-state/v3.3.3/img/logo.svg" alt="watch-state" />
   watch-state
+</a>
+and
+<a href="https://github.com/d8corp/rune-hub" title="rune-hub">
+  <img height="20" align="center" src="https://cdn.jsdelivr.net/gh/d8corp/rune-hub@main/logo.svg" alt="rune-hub" />
+  rune-hub
 </a>
 </h3>
 
